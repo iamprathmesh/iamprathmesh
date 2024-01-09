@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :
 🔭 I’m currently working on building up my programming fundamentals<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with building my connections on LinkedIn<br>🌱 I’m currently learning  Data Structures & Algorithms<br>📫 How to reach me prathmeshbhandare3@gmail.com<br>⚡ Fun fact : I love learning new technologies<br>👨‍💻 All of my projects are available at https://github.com/iamprathmesh
 
 
